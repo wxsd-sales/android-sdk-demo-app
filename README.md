@@ -77,7 +77,7 @@ Check out our live demo, available [here](<https://www.youtube.com/watch?v=TQJMA
 
 ## License
 
-Include a one liner here. Point to the `LICENSE` file in the repository.
+View MIT License [here](LICENSE)
 
 
 ## Support
