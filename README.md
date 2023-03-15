@@ -26,18 +26,7 @@ This demo provides an introduction on how to begin building Android applications
 
 In this application, we use the SDK to retrieve details about the logged in user, extract all the direct contacts of that user, and use messaging and meeting features to engage with their contacts. This application also demonstrates how to add meeting controls like muting the audio, muting the video, screen sharing, speaker mode, holding the call etc. You can also login and logout of the app using OAuth webview.  
 
- - Insert a screenshot, gif or image [image/gif](https://ezgif.com) file and link it to the YouTube demo
-(if it exists) for your project.
-
-<p align="center">
-   <a href="https://app.vidcast.io/share/d5289588-9810-4e4a-9ea5-b85b61816cc3" target="_blank">
-       <img src="static/readme/videoQueue.gif" alt="video-call-queue"/>
-    </a>
-</p>
-
-</br >
-[![Android SDK Demo App](android demo app.PNG)](https://www.youtube.com/watch?v=TQJMAFmR8eQ&t=16s, "Android SDK Demo App")
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au)
+[![Android SDK Demo App](android_demo_app.PNG)](https://www.youtube.com/watch?v=TQJMAFmR8eQ&t=16s, "Android SDK Demo App")
 
 <!-- Keep the following here -->  
  *_Everything included is for demo and Proof of Concept purposes only. Your use of the site is solely at your own risk. This site may contain links to third party content, which we do not warrant, endorse, or assume liability for. These demos are for Cisco Webex usecases, but are not Official Cisco Webex Branded demos._
