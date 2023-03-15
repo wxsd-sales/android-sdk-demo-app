@@ -36,7 +36,7 @@ In this application, we use the SDK to retrieve details about the logged in user
 </p>
 
 </br >
-
+[![Android SDK Demo App](android demo app.PNG)](https://www.youtube.com/watch?v=TQJMAFmR8eQ&t=16s, "Android SDK Demo App")
 [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au)
 
 <!-- Keep the following here -->  
